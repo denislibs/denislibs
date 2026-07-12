@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Denis Maramygin — functional reactive programming" width="880" />
+<img src="./header.svg" alt="Denis Maramygin — functional reactive programming" width="880" />
 
 <br/>
 
