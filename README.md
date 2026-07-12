@@ -46,25 +46,6 @@ If it can be a stream, I'll probably make it a stream.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=FBF0DF)
 
-### Featured work
-
-<div align="center">
-
-<a href="https://github.com/denislibs/continuum">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=denislibs&repo=continuum&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=e6edf3&border_color=30363d&hide_border=false" alt="continuum" />
-</a>
-<a href="https://github.com/denislibs/prepare-to-front">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=denislibs&repo=prepare-to-front&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=e6edf3&border_color=30363d&hide_border=false" alt="prepare-to-front" />
-</a>
-
-</div>
-
-### The numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=denislibs&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=e6edf3&border_color=30363d" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denislibs&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_color=30363d" alt="top langs" />
 
 <br/>
 
